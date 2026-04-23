@@ -65,9 +65,9 @@ My edge: I ship production-ready MVPs fast using Cursor and Claude.
 
 ### Let's connect
 
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="mailto:abduljalalgadau@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 <a href="https://twitter.com/GadauJalal"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-<a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 
 <!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=80§ion=footer" width="100%"/>
