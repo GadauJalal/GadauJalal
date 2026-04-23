@@ -1,5 +1,5 @@
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120§ion=header&text=Hi,%20I'm%20Jalal&fontSize=36&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120§ion=header&text=Hi,%20I'm%20Abduljalal&fontSize=36&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <!-- Typing animation -->
 <!-- Typing animation -->
