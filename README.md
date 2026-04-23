@@ -2,8 +2,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120§ion=header&text=Hi,%20I'm%20Jalal&fontSize=36&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <!-- Typing animation -->
+<!-- Typing animation -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1¢er=true&width=500&lines=React+%26+Next.js+Developer;React+Native+%2F+Expo+Mobile+Dev;TypeScript+%2B+Tailwind+CSS;AI-assisted+with+Cursor+%26+Claude;Open+to+remote+%26+freelance" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&width=500&lines=React+%26+Next.js+Developer;React+Native+%2F+Expo+Mobile+Dev;TypeScript+%2B+Tailwind+CSS;AI-assisted+with+Cursor+%26+Claude;Open+to+remote+%26+freelance" alt="Typing SVG"/>
 </p>
 
 ---
